@@ -26,7 +26,7 @@ I implemented and refined:
 ## Connecting Learning to the Field of Computer Science
 
 ### **What Computer Scientists Do and Why It Matters**
-Computer scientists design intelligent systems, algorithms, and tools that solve real-world problems through automation, data analysis, and optimization. This project demonstrates how machine learning and reinforcement learning can teach an artificial agent to make strategic decisions — a foundational concept used in robotics, autonomous vehicles, and recommendation systems. The ability to simulate learning and decision-making in software helps drive innovation across industries.
+Computer scientists design intelligent systems, algorithms, and tools that solve real-world problems through automation, data analysis, and optimization. This project demonstrates how machine learning and reinforcement learning can teach an artificial agent to make strategic decisions a foundational concept used in robotics, autonomous vehicles, and recommendation systems. The ability to simulate learning and decision-making in software helps drive innovation across industries.
 
 ### **How I Approach a Problem as a Computer Scientist**
 I approach problems by:
@@ -39,9 +39,9 @@ This systematic and analytical approach reflects the core mindset of a computer 
 
 ### **Ethical Responsibilities to the End User and Organization**
 As a computer scientist, ethical responsibility extends beyond technical correctness. When developing intelligent systems:
-- **Transparency and accountability** are essential — ensuring that decision-making logic is explainable and fair.
-- **User safety and privacy** must be prioritized — especially when AI systems interact with personal or sensitive data.
-- **Bias mitigation** is critical — training data and algorithms must be monitored to prevent unintended discrimination or harm.
+- **Transparency and accountability** are essential ensuring that decision-making logic is explainable and fair.
+- **User safety and privacy** must be prioritized especially when AI systems interact with personal or sensitive data.
+- **Bias mitigation** is critical training data and algorithms must be monitored to prevent unintended discrimination or harm.
 
 In this project, although the RL agent operates in a simulated maze, the underlying principles mirror real-world AI ethics — emphasizing responsible innovation that benefits both users and organizations.
 
